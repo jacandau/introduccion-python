@@ -1,2 +1,1 @@
-# introduccion-python
-Introducción a Python orientado a ASD
+# Introducción a Python orientado a ASD
