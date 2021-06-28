@@ -1,2 +1,2 @@
-# Introducción a Python orientado a ASD
-Notebooks para el curso de **Introducción a Python**
+# Introducción a Python
+Notebooks y presentaciones para el curso de **Introducción a Python**
